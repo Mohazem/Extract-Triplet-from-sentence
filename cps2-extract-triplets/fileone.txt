@@ -1,0 +1,13 @@
+politics=Kovind=is=president
+politics=Macron=is=president
+politics=Mattarella=is=president
+politics=fox=live=forset
+politics=Trump=is=president
+entertainment=fox=live=forset
+entertainment=Trump=is a=animator
+location=Italy=is in=europe
+location=France=is in=europe
+location=Germany=is in=europe
+location=Spain=is in=europe
+economy=Macron=kind of=diacritical mark
+economy=fox=live=forset

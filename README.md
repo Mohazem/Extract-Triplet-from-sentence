@@ -1,3 +1,3 @@
-# Sentence to Triple CPS2 Project
+# Sentence to Triple Project
 
 ## write a documentation for the interface
